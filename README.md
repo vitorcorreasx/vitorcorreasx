@@ -1,8 +1,8 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorcorreasx&show_icons=true&theme=radical) -->
 
-## Oiii eu sou o Vitor Correa, futuro programador FullStack!!
-<div align="center">
+## Olá eu sou o Vitor Correa, futuro programador FullStack!!
+<div align="center" style="display: inline_block">
   <a href="https://github.com/vitorcorreasx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorcorreasx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcorreasx&layout=compact&langs_count=7&theme=dracula"/>
