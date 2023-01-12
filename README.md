@@ -1,4 +1,4 @@
-## Olá eu sou o Vitor Correa, futuro programador FullStack!!
+## Olá eu sou o Vitor Correa, estudante de programação!
   <div align="center">
     <a href="https://github.com/vitorcorreasx">
 <!--         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorcorreasx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
