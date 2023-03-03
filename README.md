@@ -26,7 +26,7 @@
 <h2>Vitor Correa</h2>
 <p>FullStack Student</P
 
-<h3>Main Language and others</h3>
+<h3>Main Language</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-333?style=flat-square&logo=javascript&Color=white" />
 </p>
