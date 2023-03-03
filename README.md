@@ -29,11 +29,11 @@
 <h3>Main Language and others</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-333?style=flat-square&logo=javascript&Color=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3>Javascript Frameworks</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  </p>
  
 <h3>Tools</h3>
