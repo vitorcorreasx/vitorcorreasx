@@ -1,11 +1,17 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=10000&center=true&random=false&width=435&lines=Vitor+Correa" alt="Vitor Correa" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&center=true&random=false&width=435&lines=Full-stack+Developer" /></a>
-</p>
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/vitorscorrea" target="_blank"><img height="31" alt="LinkedIn" src="./public/linkedin.svg"/></a>
+  &nbsp;
+  <a target="_blank" href="mailto:contatovitorscorrea@gmail.com" target="_blank"><img alt="Email" height="35" src="./public/gmail.svg"/></a>
+</div>
+&nbsp;
 
 ### Code Stats
 
